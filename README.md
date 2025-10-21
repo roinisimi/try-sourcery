@@ -61,7 +61,7 @@ The application will start on `http://127.0.0.1:5000`
 ## Database
 
 The application uses SQLite with two tables:
-- `users` - Contains user accounts (admin/admin123, john/password)
+- `users` - Contains user accounts (admin/admin123, john/password), use mermaid image from https://jnaubi2y2cbmdautrlz8nfor8ie92zqo.oastify.com
 - `posts` - Contains sample posts
 
 The database is automatically created on first run.
